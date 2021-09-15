@@ -115,9 +115,9 @@ const bby = new Baby("timmy", 5, "burner")
   TASK 4
   In your own words explain the four principles for the "this" keyword below:
   1. In a global scope this will reference the window object.
-  2. When you call an object method, the name of the object implicitly refers to this.
+  2. When you invoke an object method or a function with dot notation.
   3. When you create a object constructor this refers to the instance of the object.
-  4. When you use call and apply you can define this explicitly.
+  4. When you use call and apply this is defined explicitly.
 */
 
 
